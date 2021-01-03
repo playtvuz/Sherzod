@@ -1,0 +1,13 @@
+#EXTM3U 
+#EXTINF:-1,Домашний
+#EXTGRP:Российские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС
+#EXTGRP:Российские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+#EXTGRP:Российские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4
+#EXTGRP:Российские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
